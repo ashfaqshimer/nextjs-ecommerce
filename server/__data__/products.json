@@ -1,0 +1,42 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"name": "Brown Brim",
+		"sku": "01",
+		"description": "This is a brown bim",
+		"quantityAvailable": 5,
+		"price": 10.2,
+		"productCollection": "5d725a4a7b292f5f8ceff789",
+		"imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png"
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"name": "Blue Beanie",
+		"sku": "02",
+		"description": "This is product 2",
+		"quantityAvailable": 1,
+		"price": 1890.2,
+		"productCollection": "5d725cd2c4ded7bcb480eaa2",
+		"imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png"
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"name": "Brown Cowboy",
+		"sku": "03",
+		"description": "This is product 3",
+		"quantityAvailable": 2,
+		"price": 250.2,
+		"productCollection": "5d725a4a7b292f5f8ceff789",
+		"imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png"
+	},
+	{
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"name": "Product 4",
+		"sku": "04",
+		"description": "This is product 4",
+		"quantityAvailable": 3,
+		"price": 185.65,
+		"productCollection": "5d725a4a7b292f5f8ceff789",
+		"imageUrl": "https://i.ibb.co/qMQ75QZ/floral-shirt.png"
+	}
+]

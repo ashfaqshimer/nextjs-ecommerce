@@ -1,0 +1,32 @@
+.CollectionPage {
+	padding: 2rem 0;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+
+	.title {
+		font-size: 38px;
+		margin: 0 auto 30px;
+	}
+
+	.load-more {
+		margin: 1rem auto;
+		justify-content: center;
+	}
+
+	.no-products {
+		height: 70vh;
+	}
+
+	@media screen and (max-width: 768px) {
+		.items {
+			grid-template-columns: 1fr 1fr;
+
+			& .collection-item {
+				margin-bottom: 50px;
+			}
+		}
+	}
+}

@@ -1,0 +1,249 @@
+/* Utility Classes */
+.container {
+	max-width: 1500px;
+	margin: auto;
+	padding: 0 2rem;
+	overflow: hidden;
+}
+.text-primary {
+	color: #93cb52;
+}
+
+.bg-primary {
+	background: #f2f4f6;
+	color: #333;
+}
+
+.bg-light {
+	background: #f4f4f4;
+	color: #333;
+}
+
+.bg-dark {
+	background: #333;
+	color: #fff;
+}
+
+.l-heading {
+	font-size: 4rem;
+	line-height: 1.1;
+	margin-bottom: 0.75rem;
+}
+
+.m-heading {
+	font-size: 2rem;
+	line-height: 1.1;
+	margin-bottom: 0.75rem;
+}
+
+.lead {
+	font-size: 1.3rem;
+	margin-bottom: 2rem;
+}
+
+.btn {
+	background: #93cb52;
+	padding: 0.8rem 1rem;
+	border-radius: 0.5rem;
+	color: #fff;
+	border: none;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background: #7ab436;
+	cursor: pointer;
+}
+
+.btn-dark {
+	background: #333;
+	color: #fff;
+}
+
+.list {
+	margin: 0.5rem 0;
+	list-style: none;
+	text-align: justify;
+}
+
+.list li {
+	padding: 0.5rem 0;
+	border-bottom: #444 dotted 1px;
+}
+
+.py-1 {
+	padding: 1rem 0;
+}
+.py-2 {
+	padding: 2rem 0;
+}
+.py-3 {
+	padding: 3rem 0;
+}
+
+.p-1 {
+	padding: 1rem;
+}
+.p-2 {
+	padding: 2rem;
+}
+.p-3 {
+	padding: 3rem;
+}
+
+/* Navbar */
+#navbar {
+	display: flex;
+	color: #fff;
+	background: #333;
+	position: sticky;
+	top: 0%;
+	justify-content: space-between;
+	z-index: 1;
+	padding: 1rem;
+}
+
+#navbar ul {
+	display: flex;
+	align-items: center;
+	list-style: none;
+}
+
+#navbar ul li a {
+	color: #fff;
+	padding: 0.75rem;
+	margin: 0 0.25rem;
+}
+
+#navbar ul li a:hover {
+	background: #93cb52;
+	border-radius: 0.5rem;
+}
+
+/* Showcase */
+#showcase {
+	height: 100vh;
+	background: #625261;
+}
+
+.showcase-content {
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+/* What We Do */
+#what {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+#what .container .m-heading {
+	margin-top: 2rem;
+}
+
+#what .items {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#what .items .item {
+	flex: 1;
+	text-align: center;
+	padding: 1rem;
+	margin: 0.75rem;
+}
+
+#what .items .item i {
+	background: #93cb52;
+	border-radius: 5rem;
+	padding: 1.2rem;
+	margin-bottom: 1rem;
+}
+
+/* Who We Are */
+#who {
+	display: flex;
+}
+
+#who div {
+	flex: 1;
+}
+
+#who .m-heading {
+	text-align: center;
+}
+
+/* Clients */
+#clients {
+	text-align: center;
+	height: 50vh;
+}
+
+#clients .container .m-heading {
+	margin-top: 2rem;
+}
+
+#clients .items {
+	display: flex;
+}
+
+#clients .items div img {
+	display: block;
+	width: 60%;
+	margin: auto;
+}
+
+/* Contact */
+#contact {
+	display: flex;
+	/* text-align: center; */
+}
+
+#contact .contact-form,
+#contact .map {
+	flex: 1;
+}
+
+#contact .contact-form h2 {
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+#contact .contact-form p {
+	font-style: italic;
+	color: #4e3440;
+}
+
+#contact .contact-form .form-group {
+	margin: 1rem;
+}
+
+#contact .form-group label {
+	display: block;
+}
+
+#contact .form-group input,
+#contact .form-group textarea {
+	width: 100%;
+	padding: 0.5rem;
+	border: none;
+}
+
+#contact .form-group textarea {
+	resize: none;
+}
+
+/* Footer */
+#main-footer {
+	text-align: center;
+	padding: 0.4rem 0;
+}

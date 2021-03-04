@@ -1,0 +1,65 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"name": "Category 1",
+		"description": "description 1",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"name": "Category 2",
+		"description": "description 2",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"name": "Category 3",
+		"description": "description 3",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"name": "Category 4",
+		"description": "description 4",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"name": "Category 5",
+		"description": "description 5",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"name": "Category 6",
+		"description": "description 6",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"name": "Category 7",
+		"description": "description 7",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"name": "Category 8",
+		"description": "description 8",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"name": "Category 9",
+		"description": "description 9",
+		"imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
+		"tags": []
+	}
+]
